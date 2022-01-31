@@ -2,7 +2,7 @@
 Novice tester, I know the basics of testing, I understand the work of databases and SQL queries, test design, check-case, checklist, JIRA.
 
 <p align='center'>
-<a href="https://WhatsApp/+79022091313">
+<a href="https://wa.me/79022091313">
        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
    </a>   
 <a href="https://t.me/janna_ch">
