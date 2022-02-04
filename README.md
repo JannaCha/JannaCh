@@ -1,5 +1,5 @@
 ### Hi, I'm Janna 👋
-Novice tester, I know the basics of testing, I understand the work of databases and SQL queries, test design, check-case, checklist, JIRA.
+Novice tester, I know the basics of testing, databases and SQL queries, test design, check-case, checklist, JIRA.
 
 <p align='center'>
 <a href="https://wa.me/79022091313">
